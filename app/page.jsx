@@ -1,4 +1,4 @@
-import Post from './components/post';
+import Post from '@/app/components/Post';
 import styles from './page.module.css'
 import prisma from '@/lib/prisma'
 import Link from 'next/link';
